@@ -1,4 +1,11 @@
-Quick analysis of Trumps most used words. Results:
+#TrumpTwitter
+Quick analysis of Donald Trump's most used words on Twitter.
+
+##Description
+
+I was bored bedridden with what was effectively a super-flu, and it was midway through Primary season, so I just decided to write a quick app to do some analysis on Trump's tweets. I simply found his most used words and had them reported. I used a library to filter out all common words such as "the", "to" etc, and below are the results I found.
+
+##Results:
 
   [ 'trump', 591 ],
   [ 'great', 424 ],
